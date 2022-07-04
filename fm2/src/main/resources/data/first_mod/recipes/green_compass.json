@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " W ",
+    "WRW",
+    "EWE"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:compass"
+    },
+    "E": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "first_mod:red_compass",
+    "count": 1
+  }
+}
