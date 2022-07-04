@@ -1,0 +1,26 @@
+{
+"parent": "item/generated",
+    "textures": {
+        "layer0": "first_mod:item/red_compass"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "angle": 0.1
+            },
+            "model": "first_mod:item/red_compass"
+        },
+        {
+            "predicate": {
+                "angle": 0.5
+            },
+            "model": "first_mod:item/red_compass_1"
+        },
+        {
+            "predicate": {
+                "angle": 1
+            },
+            "model": "first_mod:item/red_compass_2"
+        }
+    ]  
+}

@@ -1,0 +1,10 @@
+{
+  "item.first_mod.identifier": "Identifier",
+  "item.first_mod.red_compass": "Red Compass",
+  "item.first_mod.blue_compass": "Blue Compass",
+  "item.first_mod.white_compass": "White Compass",
+  "item.first_mod.green_compass": "Green Compass",
+  "item.first_mod.warper": "Warper",
+  "block.first_mod.red_brick": "Red Brick",
+  "itemGroup.tutorial.other": "Other"
+}

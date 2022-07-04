@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "first_mod:test",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 665730798,
+    "spread_type": "triangular",
+    "spacing": 4,
+    "separation": 2
+  }
+}
